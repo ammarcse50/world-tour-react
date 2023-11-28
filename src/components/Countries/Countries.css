@@ -3,3 +3,14 @@
 
   grid-template-columns: repeat(4,1fr);
 }
+
+
+.visited {
+
+    background-color: lime;
+}
+
+.non-visited{
+
+    background-color: gray;
+}
